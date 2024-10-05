@@ -95,7 +95,7 @@ def main():
         f'<meta http-equiv="refresh" content="0; url={malicious}">'
         '    <script>setTimeout(function() {'
         f'        window.location = "{redirect}"'
-        '    }, 500)</script>'
+        f'    }, {timeout})</script>'
     )
 
 if __name__ == '__main__':
