@@ -1,8 +1,7 @@
 # 📸 Discord Image Exploit
 A phishing trick I found in discord. Working as of now.  
-**Join the discord and create a ticket if you wan't help with a bug**: https://discord.gg/wbh8eFGKAm <br>
+**Join the discord and create a ticket if you want to help with a bug**: https://discord.gg/wbh8eFGKAm <br>
 **You can message me at**: Ice Bear#0167
-Consider donating please as I make all my tools free https://www.roblox.com/game-pass/20395764/Donate 
 
 # 📝 Explanation
 The program simply detects when discord is sending a get request for a preview of the website based off the ip address and will send a fake image. 
