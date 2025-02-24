@@ -1,5 +1,5 @@
 # 📸 Discord Image Exploit
-A phishing trick I found in discord. Working as of now.  
+A phishing vulnerability I found in discord's embed system  
 **Join the discord and create a ticket if you want to help with a bug**: https://discord.gg/wbh8eFGKAm <br>
 **You can message me at**: Ice Bear#0167
 
